@@ -1,0 +1,29 @@
+.rodapi {  position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    height: 50px;
+    justify-content: center; 
+    background: linear-gradient(to right,#A9A9A9,#000);
+    color: white;
+    text-align: center;
+    padding-top: 15px;  
+}
+
+
+.rodaj{
+    margin-top: 18px;
+    bottom: 0px;
+    width: 100%;
+    min-width: 600px;
+   background: linear-gradient(to right,#A9A9A9,#000);
+    color: black;
+    padding-bottom: 20px;
+    margin-left: -10px;
+    margin-right:  -15px;
+    height: 50px;
+    position: fixed;
+    align-items: center;
+    justify-content: center;  
+    display: flex;
+    padding-top: 30px;  }
